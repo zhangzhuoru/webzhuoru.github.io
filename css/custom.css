@@ -169,25 +169,36 @@ hr:before {
 }
 /* #endregion */
 /* 鼠标样式 */
-body {
+/* body {
     cursor: url(https://bu.dusays.com/2022/05/17/6283c365d20dd.png), auto;
-}
-
-.hide-block>.hide-button.open,
-.hide-inline>.hide-button.open {
-    display: block
 }
 
 a,
 button,
 img {
     cursor: url(https://bu.dusays.com/2022/05/17/6283c376afcfc.png), auto
+} */
+body {
+    cursor: url(https://cdn.jsdelivr.net/npm/kang-static/Hexo/img/default.cur), default
 }
+
+a,
+button,
+img {
+    cursor: url(https://cdn.jsdelivr.net/npm/kang-static/Hexo/img/pointer.cur), default
+}
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+    display: block
+}
+
+
+
 /* 滚动条 */
 /* #region */
 ::-webkit-scrollbar {
     width: 8px;
-    height: 8px
+    height: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -209,7 +220,7 @@ img {
 @font-face {
     font-family: 'tzy';
     /* 字体名自定义即可 */
-    src: url('https://fastly.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2');
+    src: url('https://npm.elemecdn.com/tzy-blog/lib/font/ZhuZiAWan.ttf');
     /* 字体文件路径 */
     font-display: swap;
 }
