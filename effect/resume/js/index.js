@@ -232,6 +232,11 @@ class Person extends React.Component{
         const {persons} = this.state
         return (
             <div className="container">
+                <div className="aside">
+                    <a className="pdfbtn">
+                        PDF 下载
+                    </a>
+                </div>
         <div className="header">
             <h1 className="name">{persons.name} - {persons.job}</h1>
             <div className="header-container">
