@@ -91,38 +91,7 @@ class Person extends React.Component{
                     },
                 ]
             },
-            {
-                name:'积分导购',
-                id:'w1',
-                link:'https://zhangzhuoru.gitee.io/zhangzhuoru.gitee.io/niulansan/',
-                list:[
-                    {
-                        id:'w11',
-                        kay:'使用Vue3.0+Axios+Router+Vant+rem编写的，便利牛栏山顾客线上积分兑换的(H5)应用;'
-                    },
-                    {
-                        id:'w12',
-                        kay:'根据 UI 设计稿还原页面设计,并利用 vw 去做全手机机型适配;'
-                    },
-                    {
-                        id:'w13',
-                        kay:'采用第三方 Vant UI库完成手机端的页面布局;'
-                    },
-                    {
-                        id:'w14',
-                        kay:'使用keep-alive技术对产品列表进行缓存优化，避免页面的重复构建，减少服务器请求，加快页面响应速度，增强用户体验;'
-                    },
-                    {
-                        id:'w15',
-                        kay:'使用 axios 跟后台进行交互，获取积分兑换信息, 并对 axios 进行二次封装,根据环境变量统一请求路径,减少页面的重复操作;'
-                    },
-                    {
-                        id:'w16',
-                        kay:'调用 Router 的全局前置守卫 beforeEach，进行未登录跳转拦截的安全验证。'
-                    },
-                    
-                ]
-            },
+            
             {
                 name:'凯螺到家',
                 id:'w3',
@@ -182,12 +151,44 @@ class Person extends React.Component{
             {
                 name:'数字人民币',
                 id:'w1',
-                link:'https://zhangzhuoru.gitee.io/zhangzhuoru.gitee.io/numberRMB/',
+                link:'../RMB/',
                 list:[
                     {
                         id:'w11',
                         kay:'使用Vue2.0+echarts+Router+rem编写的，大屏自适应的银行大数据展现PC应用。'
                     }
+                    
+                ]
+            },
+            {
+                name:'积分导购',
+                id:'w1',
+                link:'../niulansan/',
+                list:[
+                    {
+                        id:'w11',
+                        kay:'使用Vue3.0+Axios+Router+Vant+rem编写的，便利牛栏山顾客线上积分兑换的(H5)应用;'
+                    },
+                    {
+                        id:'w12',
+                        kay:'根据 UI 设计稿还原页面设计,并利用 vw 去做全手机机型适配;'
+                    },
+                    {
+                        id:'w13',
+                        kay:'采用第三方 Vant UI库完成手机端的页面布局;'
+                    },
+                    {
+                        id:'w14',
+                        kay:'使用keep-alive技术对产品列表进行缓存优化，避免页面的重复构建，减少服务器请求，加快页面响应速度，增强用户体验;'
+                    },
+                    {
+                        id:'w15',
+                        kay:'使用 axios 跟后台进行交互，获取积分兑换信息, 并对 axios 进行二次封装,根据环境变量统一请求路径,减少页面的重复操作;'
+                    },
+                    {
+                        id:'w16',
+                        kay:'调用 Router 的全局前置守卫 beforeEach，进行未登录跳转拦截的安全验证。'
+                    },
                     
                 ]
             },
@@ -233,7 +234,7 @@ class Person extends React.Component{
         return (
             <div className="container">
                 <div className="aside">
-                    <a className="pdfbtn">
+                    <a className="pdfbtn" href="webzhuoru.pdf">
                         PDF 下载
                     </a>
                 </div>
@@ -304,12 +305,13 @@ class Person extends React.Component{
         </div>
         <div className="h2_block block">
             <h2>个人优势</h2>
-            <p>良好的JavaScript基础，熟练使用JQuery库，uni-app框架</p>
-            <p>熟练使用Ajax、Axios配合前端主流模板引擎进行页面渲染</p>
-            <p>熟悉W3C标准，熟练使用HTML、CSS，熟悉页面架构和布局</p>
-            <p>熟练使用HTML5、CSS3和常用的es6特性</p>
-            <p>熟练使用vue2.0、3.0脚手架开发项目</p>
-            <p>有微信小程序,公众号开发经验</p>
+            <p>熟练掌握 HTML+CSS 能够还原UI工作稿内容；</p>
+            <p>熟练掌握 JavaScript，熟悉 TypeScript 语法规范，掌握ES6以上的语法；</p>
+            <p>熟练掌握 Element-ui、Bootstrap、vant 等ui框架使用；</p>
+            <p>熟练掌握使用Vue全家桶（Vue-cli、VueRouter、Vuex、Axios）等轻量级前端框架的使用；</p>
+            <p>了解 微信小程序 和 React 开发框架，能根据开发文档编写项目；</p>
+            <p>了解 node.js，利用其搭建简单的服务器；</p>
+            <p>掌握Git，SVN代理工具的使用。</p>
         </div>
         <div className="h2_block block">
             <h2>工作经验</h2>

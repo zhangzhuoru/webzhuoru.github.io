@@ -20,6 +20,8 @@ html{
     border-radius: 5px 0 0 5px;
     transition: all 0.3s ease-out;
     color: white;
+    text-decoration: none;
+    transition: all 0.3s ease-out;
 }
 .pdfbtn:hover{
     background-color: rgba(0, 0, 0, 0.6);
