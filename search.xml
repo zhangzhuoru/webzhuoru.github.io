@@ -226,17 +226,6 @@
     
     
     <entry>
-      <title>分类页</title>
-      <link href="/web/categories/index.html"/>
-      <url>/web/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>留言板</title>
       <link href="/web/comment/index.html"/>
       <url>/web/comment/index.html</url>
@@ -248,9 +237,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/web/link/index.html"/>
-      <url>/web/link/index.html</url>
+      <title>分类页</title>
+      <link href="/web/categories/index.html"/>
+      <url>/web/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -264,6 +253,17 @@
       <url>/web/other/index.html</url>
       
         <content type="html"><![CDATA[<blockquote><p>I wish you to become your own sun , no need to rely on who’s light.<br>— 愿你成为自己的太阳，无需凭借谁的光芒。</p></blockquote><div class="tip "><p>默认情况</p></div><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='https://bu.dusays.com/2021/03/06/38a2c5cd8b44e.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">烟花秀</div>  <p>人间烟火</p>  <a href='/web/effect/fireworks'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='/web/img/react.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">个人简历</div>  <p>React版</p>  <a href='/web/effect/resume'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='/web/img/dack.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">模拟黑客版</div>  <p>生动有趣的个人简历版</p>  <a href='/web/effect/resumefuns'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='/web/img/rmb.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">大数据看板</div>  <p>银行项目大数据生动展示</p>  <a href='/web/effect/RMB'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='/web/img/haishi.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">海事博物馆</div>  <p>后台使用富文本管理的前端官网</p>  <a href='https://www.gzhsmuseum.com/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='/web/img/yunguangzhan.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">云逛展</div>  <p>在线360度无死角观看博物展</p>  <a href='http://view.gzhsmuseum.com/main.html?p=6&d=100'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/web/img/loading.gif" data-lazy-src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>没蜘蛛侠</p>  <a href='/web/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/web/link/index.html"/>
+      <url>/web/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
