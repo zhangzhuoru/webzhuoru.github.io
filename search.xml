@@ -226,9 +226,9 @@
     
     
     <entry>
-      <title>分类页</title>
-      <link href="/web/categories/index.html"/>
-      <url>/web/categories/index.html</url>
+      <title>友情链接</title>
+      <link href="/web/link/index.html"/>
+      <url>/web/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -240,17 +240,6 @@
       <title>留言板</title>
       <link href="/web/comment/index.html"/>
       <url>/web/comment/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友情链接</title>
-      <link href="/web/link/index.html"/>
-      <url>/web/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -275,6 +264,17 @@
       <url>/web/sponsorWall/index.html</url>
       
         <content type="html"><![CDATA[<div class="note blue icon modern"><i class="note-icon fas fa-bullhorn"></i><p>网站建设与维护实属不易，如果我的文章帮助到了您，或者您想支持我的网站，可以扫描下方二维码进行赞助（赞助时请备注自己的 化名/昵称 ，打赏后将在此页面展示），非常感谢您的支持~ 🌹🌹🌹</p></div><div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">微信</button></li><li class="tab"><button type="button" data-href="#test1-2">支付宝</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong><img src= "/web/img/loading.gif" data-lazy-src="./img/wechat.png" alt="微信"></strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong><img src= "/web/img/loading.gif" data-lazy-src="./img/alipay.jpg" alt="支付宝"></strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="note purple icon modern"><i class="note-icon fas fa-battery-half"></i><p>特此鸣谢💓 ，感谢各位小伙伴们の支持~ 💋💋</p></div><table><thead><tr><th align="center">小伙伴昵称</th><th align="center">打赏方式</th><th align="center">打赏金额</th><th align="center">打赏日期</th><th align="center">留言</th></tr></thead><tbody><tr><td align="center">杨大杰</td><td align="center">支付宝</td><td align="center">￥6.66  👍</td><td align="center">2022-08-29</td><td align="center">要博客源码一份</td></tr><!-- <tr><td align="center">Liu HuanHuan</td><td align="center">微信</td><td align="center">￥50.00 👍</td><td align="center">2022-03-04</td><td align="center">咨询博客搭建问题</td></tr><tr><td align="center">御网尚书</td><td align="center">QQ红包</td><td align="center">￥18.80 👍</td><td align="center">2022-05-25</td><td align="center">请喝奶茶</td></tr><tr><td align="center">*炜</td><td align="center">微信</td><td align="center">￥1.00</td><td align="center">2022-05-31</td><td align="center">共同学习</td></tr><tr><td align="center">郭*宏</td><td align="center">微信</td><td align="center">￥9.99 👍</td><td align="center">2022-08-10</td><td align="center">我给你博客找bug</td></tr> --></tbody></table>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类页</title>
+      <link href="/web/categories/index.html"/>
+      <url>/web/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
