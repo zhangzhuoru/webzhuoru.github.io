@@ -1,8 +1,8 @@
-http://example.com/post/1026.html
-http://example.com/post/1666.html
-http://example.com/post/1024.html
-http://example.com/post/16106.html
-http://example.com/post/11314.html
-http://example.com/post/16107.html
-http://example.com/post/2020715.html
-http://example.com/post/1038.html
+https://webzhuoru.github.io/post/1026.html
+https://webzhuoru.github.io/post/1666.html
+https://webzhuoru.github.io/post/1024.html
+https://webzhuoru.github.io/post/16106.html
+https://webzhuoru.github.io/post/11314.html
+https://webzhuoru.github.io/post/16107.html
+https://webzhuoru.github.io/post/2020715.html
+https://webzhuoru.github.io/post/1038.html
