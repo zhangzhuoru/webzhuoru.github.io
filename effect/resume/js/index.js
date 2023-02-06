@@ -6,7 +6,7 @@ class Person extends React.Component{
             job:'前端工程师',
             sex:'男',
             collegeTime:'2015 ~ 2019',
-            college:'男',
+            college:'广东东软学院',
             specialty:'软件工程',
             other:'本科/2019年毕业/团员',
             blog:'https://webzhuoru.github.io/',
@@ -15,6 +15,29 @@ class Person extends React.Component{
             wechat:'zzr17765603009',
         },
         company:[
+            {
+                name:'广州翰智软件有限公司 （2022.10 ~ 2022.12）',
+                job:'初级前端开发顾问',
+                id:'c0',
+                list:[
+                    {
+                        id:'c01',
+                        kay:'基于 Vue 3使用 JEECG  开发图像质量检测后台, 根据原型图复原页面；'
+                    },
+                    {
+                        id:'c02',
+                        kay:'对公司自研的翰智智能项目根据蓝湖原型图租户页面和本身页面功能的添加优化；'
+                    },
+                    {
+                        id:'c03',
+                        kay:'负责公司前端产品的研发，并与设计师、后端开发人员有效沟通实现产品的界面和相关功能；'
+                    },
+                    {
+                        id:'c04',
+                        kay:'因抗不过疫情，架构优化，没躲过公司大批裁掉实习生和试用期员工。'
+                    },
+                ]
+            },
             {
                 name:'广州市昱安信息技术有限公司 （2021.10 ~ 2022.09）',
                 job:'web前端',
@@ -64,6 +87,52 @@ class Person extends React.Component{
         ],
         work:[
             
+            {
+                name:'高露洁图像质量检测后台',
+                id:'glj',
+                link:'http://175.178.131.5:8050',
+                list:[
+                    {
+                        id:'wglj1',
+                        kay:'使用 Vue3.0+echarts+JEECG  编写的，提供给高露洁的图像质量检测后台；'
+                    },
+                    {
+                        id:'wglj2',
+                        kay:'使用 promise.all  对多图片上传功能优化，提高用户体验；'
+                    },
+                    {
+                        id:'wglj3',
+                        kay:'根据 UI  设计稿还原页面设计,配合 JEECG  低代码平台快速开发;'
+                    },
+                    {
+                        id:'wglj4',
+                        kay:'与产品和后台开发人员保持良好沟通，确保开发进度。'
+                    },
+                ]
+            },
+            {
+                name:'翰智智能',
+                id:'hz',
+                link:'http://www.hanzhiai.com:7002/',
+                list:[
+                    {
+                        id:'whz1',
+                        kay:'在已有的 RPA 系统中添加新的识别功能，如公式，名片和票据等图片的识别；'
+                    },
+                    {
+                        id:'whz2',
+                        kay:'对上传图片的限制和提醒，提高用户体验；'
+                    },
+                    {
+                        id:'whz3',
+                        kay:'还原 UI  设计稿,对已有页面进行优化;'
+                    },
+                    {
+                        id:'whz4',
+                        kay:'添加租户付费识别图片后台管理系统。'
+                    },
+                ]
+            },
             {
                 name:'广州海事博物馆官网后台管理系统',
                 id:'whs',

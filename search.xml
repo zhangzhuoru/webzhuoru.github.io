@@ -70,11 +70,11 @@
       
         <tags>
             
-            <tag> Vue3 </tag>
-            
             <tag> vue </tag>
             
             <tag> h5 </tag>
+            
+            <tag> Vue3 </tag>
             
         </tags>
       
@@ -126,9 +126,9 @@
             
             <tag> vue </tag>
             
-            <tag> h5 </tag>
-            
             <tag> 微信公众号 </tag>
+            
+            <tag> h5 </tag>
             
         </tags>
       
@@ -265,22 +265,22 @@
     
     
     <entry>
-      <title>分类页</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>About Me</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="☠-基本信息"><a href="#☠-基本信息" class="headerlink" title="☠ 基本信息"></a>☠ 基本信息</h1><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">Name:</span> <span class="string">ZhuoRu(张卓如)</span></span><br><span class="line"><span class="attr">Age:</span> <span class="number">27</span></span><br><span class="line"><span class="attr">Address:</span> <span class="string">Guangzhou</span></span><br><span class="line"><span class="attr">Github:</span> <span class="string">https://gitee.com/zhangzhuoru</span></span><br><span class="line"><span class="attr">Blog:</span> <span class="string">https://webzhuoru.github.io/</span></span><br><span class="line"><span class="attr">Hobbies:</span> <span class="string">photography,</span> <span class="string">animation,</span> <span class="string">Internet,</span> <span class="string">front-end</span> <span class="string">technology</span></span><br></pre></td></tr></table></figure><p>就个人而言，因为呆过的两家公司规模都不大，之前也有提到过，第二家公司甚至只有我一个前端，所以我一直没有经历过一个比较完整的项目开发流程，两家公司都没有成熟的UI设计师，所以有时候自己还得做一些除了前端以为的其它工作。在思考了一段时间后，我也看到了自己身上几个比较大的弊端：</p><ul><li>团队很小，前端开发并不规范</li><li>不熟悉中大厂他们的整个开发体系</li><li>缺少前端团队协作开发的相关经验</li><li>项目都是以<code>ToB</code>为主，移动端开发较少</li></ul><p>所以在知道了自己的不足之后，我也明确了自己的目标，决心跳槽，并且对下一份工作要求排了一个优先级：</p><ol><li>团队、平台(大团队，大平台)</li><li>地域(深圳、广州、杭州)</li><li>薪资待遇</li></ol><p>针对于第一点，前两份工作基本是一年一跳，所以对于第三份工作，我希望能呆着长久一些，并且也是想要进入大点的平台，不一定非得说是<code>500百强</code>这样的超级大公司，但起码是得有个千人以上的。</p><h1 id="🎓-技术栈"><a href="#🎓-技术栈" class="headerlink" title="🎓 技术栈"></a>🎓 技术栈</h1><p>精通使用H5+CSS3对页面进行布局(成功的页面仔)<br>熟悉使用原生JavaScript、ES6、TS<br>熟练使用Vue全家桶进行搭建项目<br>了解 微信小程序 和React 开发框架,能熟练且合理调用其Api，有相关项目经验<br>熟悉Webpack、Gulp、Grunt等等打包工具<br>熟练编写前端标准代码,熟悉浏览器兼容问题解决(IE10以下另当别论)<br>……</p><h1 id="📡-联系博主"><a href="#📡-联系博主" class="headerlink" title="📡 联系博主"></a>📡 联系博主</h1><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">qq:</span> <span class="number">2276839311</span></span><br><span class="line"><span class="attr">vx:</span> <span class="string">zzr17765603009（加我请留下备注，无备注不会审核通过哈，望理解）</span></span><br><span class="line"><span class="attr">email:</span> <span class="number">2276839311</span><span class="string">@qq.com</span></span><br><span class="line"><span class="attr">motto:</span> <span class="string">好看的皮囊千篇一律,有趣的灵魂万中无一。</span></span><br></pre></td></tr></table></figure><h1 id="🎩-关于本站"><a href="#🎩-关于本站" class="headerlink" title="🎩 关于本站"></a>🎩 关于本站</h1><p>Hexo 框架 + Butterfly 主题</p><p>博客中的部分图片源于网络，侵删</p><p>本博客文章采用 CC BY-NC-SA 4.0 协议，转载请注明出处</p><p>欢迎小伙伴们交换友链，具体说明可在 友链页 查看。</p>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>About Me</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类页</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="☠-基本信息"><a href="#☠-基本信息" class="headerlink" title="☠ 基本信息"></a>☠ 基本信息</h1><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">Name:</span> <span class="string">ZhuoRu(张卓如)</span></span><br><span class="line"><span class="attr">Age:</span> <span class="number">27</span></span><br><span class="line"><span class="attr">Address:</span> <span class="string">Guangzhou</span></span><br><span class="line"><span class="attr">Github:</span> <span class="string">https://gitee.com/zhangzhuoru</span></span><br><span class="line"><span class="attr">Blog:</span> <span class="string">https://webzhuoru.github.io/</span></span><br><span class="line"><span class="attr">Hobbies:</span> <span class="string">photography,</span> <span class="string">animation,</span> <span class="string">Internet,</span> <span class="string">front-end</span> <span class="string">technology</span></span><br></pre></td></tr></table></figure><p>就个人而言，因为呆过的两家公司规模都不大，之前也有提到过，第二家公司甚至只有我一个前端，所以我一直没有经历过一个比较完整的项目开发流程，两家公司都没有成熟的UI设计师，所以有时候自己还得做一些除了前端以为的其它工作。在思考了一段时间后，我也看到了自己身上几个比较大的弊端：</p><ul><li>团队很小，前端开发并不规范</li><li>不熟悉中大厂他们的整个开发体系</li><li>缺少前端团队协作开发的相关经验</li><li>项目都是以<code>ToB</code>为主，移动端开发较少</li></ul><p>所以在知道了自己的不足之后，我也明确了自己的目标，决心跳槽，并且对下一份工作要求排了一个优先级：</p><ol><li>团队、平台(大团队，大平台)</li><li>地域(深圳、广州、杭州)</li><li>薪资待遇</li></ol><p>针对于第一点，前两份工作基本是一年一跳，所以对于第三份工作，我希望能呆着长久一些，并且也是想要进入大点的平台，不一定非得说是<code>500百强</code>这样的超级大公司，但起码是得有个千人以上的。</p><h1 id="🎓-技术栈"><a href="#🎓-技术栈" class="headerlink" title="🎓 技术栈"></a>🎓 技术栈</h1><p>精通使用H5+CSS3对页面进行布局(成功的页面仔)<br>熟悉使用原生JavaScript、ES6、TS<br>熟练使用Vue全家桶进行搭建项目<br>了解 微信小程序 和React 开发框架,能熟练且合理调用其Api，有相关项目经验<br>熟悉Webpack、Gulp、Grunt等等打包工具<br>熟练编写前端标准代码,熟悉浏览器兼容问题解决(IE10以下另当别论)<br>……</p><h1 id="📡-联系博主"><a href="#📡-联系博主" class="headerlink" title="📡 联系博主"></a>📡 联系博主</h1><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">qq:</span> <span class="number">2276839311</span></span><br><span class="line"><span class="attr">vx:</span> <span class="string">zzr17765603009（加我请留下备注，无备注不会审核通过哈，望理解）</span></span><br><span class="line"><span class="attr">email:</span> <span class="number">2276839311</span><span class="string">@qq.com</span></span><br><span class="line"><span class="attr">motto:</span> <span class="string">好看的皮囊千篇一律,有趣的灵魂万中无一。</span></span><br></pre></td></tr></table></figure><h1 id="🎩-关于本站"><a href="#🎩-关于本站" class="headerlink" title="🎩 关于本站"></a>🎩 关于本站</h1><p>Hexo 框架 + Butterfly 主题</p><p>博客中的部分图片源于网络，侵删</p><p>本博客文章采用 CC BY-NC-SA 4.0 协议，转载请注明出处</p><p>欢迎小伙伴们交换友链，具体说明可在 友链页 查看。</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -309,22 +309,22 @@
     
     
     <entry>
-      <title>赞助墙</title>
-      <link href="/sponsorWall/index.html"/>
-      <url>/sponsorWall/index.html</url>
+      <title>More realize</title>
+      <link href="/other/index.html"/>
+      <url>/other/index.html</url>
       
-        <content type="html"><![CDATA[<div class="note blue icon modern"><i class="note-icon fas fa-bullhorn"></i><p>网站建设与维护实属不易，如果我的文章帮助到了您，或者您想支持我的网站，可以扫描下方二维码进行赞助（赞助时请备注自己的 化名/昵称 ，打赏后将在此页面展示），非常感谢您的支持~ 🌹🌹🌹</p></div><div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">微信</button></li><li class="tab"><button type="button" data-href="#test1-2">支付宝</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong><img src= "/img/loading.gif" data-lazy-src="./img/wechat.png" alt="微信"></strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong><img src= "/img/loading.gif" data-lazy-src="./img/alipay.jpg" alt="支付宝"></strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="note purple icon modern"><i class="note-icon fas fa-battery-half"></i><p>特此鸣谢💓 ，感谢各位小伙伴们の支持~ 💋💋</p></div><table><thead><tr><th align="center">小伙伴昵称</th><th align="center">打赏方式</th><th align="center">打赏金额</th><th align="center">打赏日期</th><th align="center">留言</th></tr></thead><tbody><tr><td align="center">杨大杰</td><td align="center">支付宝</td><td align="center">￥6.66  👍</td><td align="center">2022-08-29</td><td align="center">要博客源码一份</td></tr><!-- <tr><td align="center">Liu HuanHuan</td><td align="center">微信</td><td align="center">￥50.00 👍</td><td align="center">2022-03-04</td><td align="center">咨询博客搭建问题</td></tr><tr><td align="center">御网尚书</td><td align="center">QQ红包</td><td align="center">￥18.80 👍</td><td align="center">2022-05-25</td><td align="center">请喝奶茶</td></tr><tr><td align="center">*炜</td><td align="center">微信</td><td align="center">￥1.00</td><td align="center">2022-05-31</td><td align="center">共同学习</td></tr><tr><td align="center">郭*宏</td><td align="center">微信</td><td align="center">￥9.99 👍</td><td align="center">2022-08-10</td><td align="center">我给你博客找bug</td></tr> --></tbody></table>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>I wish you to become your own sun , no need to rely on who’s light.<br>— 愿你成为自己的太阳，无需凭借谁的光芒。</p></blockquote><div class="tip "><p>默认情况</p></div><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='https://bu.dusays.com/2021/03/06/38a2c5cd8b44e.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">烟花秀</div>  <p>人间烟火</p>  <a href='/effect/fireworks'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/react.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">个人简历</div>  <p>React版</p>  <a href='/effect/resume'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/dack.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">模拟黑客版</div>  <p>生动有趣的个人简历版</p>  <a href='/effect/resumefuns'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/rmb.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">大数据看板</div>  <p>银行项目大数据生动展示</p>  <a href='/effect/RMB'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/haishi.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">海事博物馆</div>  <p>后台使用富文本管理的前端官网</p>  <a href='https://www.gzhsmuseum.com/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/yunguangzhan.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">云逛展</div>  <p>在线360度无死角观看博物展</p>  <a href='http://view.gzhsmuseum.com/main.html?p=6&d=100'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/hanzi.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">翰智智能</div>  <p>公司自研的翰智识图</p>  <a href='http://www.hanzhiai.com:7002/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/gaolujie.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">高露洁</div>  <p>高露洁图片质量检测后台</p>  <a href='http://175.178.131.5:8050/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>没蜘蛛侠</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>More realize</title>
-      <link href="/other/index.html"/>
-      <url>/other/index.html</url>
+      <title>赞助墙</title>
+      <link href="/sponsorWall/index.html"/>
+      <url>/sponsorWall/index.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>I wish you to become your own sun , no need to rely on who’s light.<br>— 愿你成为自己的太阳，无需凭借谁的光芒。</p></blockquote><div class="tip "><p>默认情况</p></div><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='https://bu.dusays.com/2021/03/06/38a2c5cd8b44e.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">烟花秀</div>  <p>人间烟火</p>  <a href='/effect/fireworks'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/react.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">个人简历</div>  <p>React版</p>  <a href='/effect/resume'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/dack.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">模拟黑客版</div>  <p>生动有趣的个人简历版</p>  <a href='/effect/resumefuns'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/rmb.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">大数据看板</div>  <p>银行项目大数据生动展示</p>  <a href='/effect/RMB'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/haishi.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">海事博物馆</div>  <p>后台使用富文本管理的前端官网</p>  <a href='https://www.gzhsmuseum.com/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='/img/yunguangzhan.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">云逛展</div>  <p>在线360度无死角观看博物展</p>  <a href='http://view.gzhsmuseum.com/main.html?p=6&d=100'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src= "/img/loading.gif" data-lazy-src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>没蜘蛛侠</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<div class="note blue icon modern"><i class="note-icon fas fa-bullhorn"></i><p>网站建设与维护实属不易，如果我的文章帮助到了您，或者您想支持我的网站，可以扫描下方二维码进行赞助（赞助时请备注自己的 化名/昵称 ，打赏后将在此页面展示），非常感谢您的支持~ 🌹🌹🌹</p></div><div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">微信</button></li><li class="tab"><button type="button" data-href="#test1-2">支付宝</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong><img src= "/img/loading.gif" data-lazy-src="./img/wechat.png" alt="微信"></strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong><img src= "/img/loading.gif" data-lazy-src="./img/alipay.jpg" alt="支付宝"></strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="note purple icon modern"><i class="note-icon fas fa-battery-half"></i><p>特此鸣谢💓 ，感谢各位小伙伴们の支持~ 💋💋</p></div><table><thead><tr><th align="center">小伙伴昵称</th><th align="center">打赏方式</th><th align="center">打赏金额</th><th align="center">打赏日期</th><th align="center">留言</th></tr></thead><tbody><tr><td align="center">杨大杰</td><td align="center">支付宝</td><td align="center">￥6.66  👍</td><td align="center">2022-08-29</td><td align="center">要博客源码一份</td></tr><!-- <tr><td align="center">Liu HuanHuan</td><td align="center">微信</td><td align="center">￥50.00 👍</td><td align="center">2022-03-04</td><td align="center">咨询博客搭建问题</td></tr><tr><td align="center">御网尚书</td><td align="center">QQ红包</td><td align="center">￥18.80 👍</td><td align="center">2022-05-25</td><td align="center">请喝奶茶</td></tr><tr><td align="center">*炜</td><td align="center">微信</td><td align="center">￥1.00</td><td align="center">2022-05-31</td><td align="center">共同学习</td></tr><tr><td align="center">郭*宏</td><td align="center">微信</td><td align="center">￥9.99 👍</td><td align="center">2022-08-10</td><td align="center">我给你博客找bug</td></tr> --></tbody></table>]]></content>
       
     </entry>
     
